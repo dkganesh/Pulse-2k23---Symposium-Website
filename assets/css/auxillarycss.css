@@ -1,0 +1,42 @@
+/* Paper Presentation */
+*body{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.paperpresentation,.projectexpo,.electricrush,.circuitsentry,.rrr,.techbrain,.powerplay,.electricwordza{
+    margin: auto;
+    width: 75%;
+    background-image: url("../img/output-onlinepngtools.png");
+    height: 100vh;
+}
+
+.heading{
+    font-size: 4em;
+    font-weight: 600;
+    text-align: center;
+    text-transform: capitalize;
+}
+.row{
+    align-items:center;
+}
+.subheading{
+    font-weight: 300;
+    
+}
+
+.row>p{
+    text-align:center;
+}
+ .container a{
+   margin: auto;
+   margin-bottom: 1em;
+   width: 100px;
+   /* margin-left: 0.5rem;
+   margin-right: 0.5rem; */
+}
+.container a:hover{
+    background: #000;
+    color: #0a56c4;
+}
+/*  */
